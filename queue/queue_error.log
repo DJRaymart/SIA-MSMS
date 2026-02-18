@@ -1,0 +1,4 @@
+2026-02-17 13:37:02 add_customer: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'I002' for key 'queue_number'
+2026-02-17 13:37:08 add_customer: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'I002' for key 'queue_number'
+2026-02-17 13:38:02 add_customer: Could not generate unique queue number. Please try again.
+2026-02-17 13:38:09 add_customer: Could not generate unique queue number. Please try again.
